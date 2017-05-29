@@ -1,0 +1,14 @@
+.x-counter {
+    float: left;
+    background-color: #0079BF;
+    color: white;
+    margin: auto;
+    border-radius: 3px;
+    font-size: 9pt;
+    padding: 4px 5px;
+    max-width: 100%;
+    overflow: hidden;
+    text-decoration: none;
+    text-overflow: ellipsis;
+}
+
