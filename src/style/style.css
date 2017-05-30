@@ -6,9 +6,10 @@
     border-radius: 3px;
     font-size: 9pt;
     padding: 4px 5px;
-    max-width: 100%;
+    width: 20px;
     overflow: hidden;
     text-decoration: none;
     text-overflow: ellipsis;
+    text-align: center;
 }
 

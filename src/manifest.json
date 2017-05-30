@@ -1,7 +1,7 @@
 {
   "name": "Trello card counter",
   "description": "Count Trello cards in Lists",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "icons": {
     "16": "img/logo16.png",
     "48": "img/logo48.png",
